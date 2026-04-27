@@ -1,0 +1,35 @@
+.box {
+  border: 2px solid #4a90e2;
+  width: 300px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.top {
+  padding: 40px;
+  border-bottom: 2px solid #4a90e2;
+  color: #4a90e2;
+  font-size: 24px;
+}
+
+.top button {
+  margin: 0 20px;
+}
+
+.bottom {
+  padding: 10px;
+}
+
+button {
+  background: white;
+  border: 1px solid #4a90e2;
+  color: #4a90e2;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+
+.reset {
+  width: 100%;
+}
